@@ -1,4 +1,4 @@
-# E-commerce recommendation system (Python)
+# E-Commerce Customer Intelligence & Product Recommendation System
 
 A small end-to-end data science project that recommends products using **user-based collaborative filtering** and **content-based filtering** (cosine similarity). It includes preprocessing, evaluation, charts, and a **Streamlit** web UI with search, category filters, and trending products.
 
@@ -21,7 +21,7 @@ Online stores have large catalogs; shoppers benefit from suggestions that reflec
 ## Project structure
 
 ```
-e commerce recommendation system/
+ReatilMind/
 ├── app.py              # Streamlit UI
 ├── model.py            # Preprocessing + recommenders + metrics + helpers
 ├── requirements.txt

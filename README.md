@@ -88,7 +88,6 @@ python scripts/generate_sample_data.py
 
 Author
 **Yajush Mishra**
-username - @mishrayajush
-githubID - (https://github.com/mishrayajush)
-
+- username - @mishrayajush
+- githubID - (https://github.com/mishrayajush)
 ---

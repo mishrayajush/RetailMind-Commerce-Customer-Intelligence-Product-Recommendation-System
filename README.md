@@ -86,6 +86,9 @@ python scripts/generate_sample_data.py
 - `streamlit` — web UI  
 - `scipy` — sparse matrix utilities for TF–IDF + numeric features  
 
-## License
+Author
+**Yajush Mishra**
+username - @mishrayajush
+githubID - (https://github.com/mishrayajush)
 
-Educational demo; category tree source is your provided file; synthetic products/ratings are generated for learning.
+---
